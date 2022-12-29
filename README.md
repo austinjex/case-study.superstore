@@ -210,13 +210,12 @@ I uploaded the dataset to Tableau Public and created a few dashboards that I tho
 I mentioned during the Ask phase that one thing I determined at that time was who my audience was. It is important to mention that my dataset had a tab titled "People" which showed a person for each region of Superstore. I assume that these people must be Superstore regional mangers of some sort. 
 Thus, my audience for the Share phase includes the Superstore stakeholders (company executives, investors, managers, department leaders, etc) and the four regional managers. Because the regional managers are part of my audience, the data visualization dashboards include visualizations specific to each region. <b>With dashboards for overall company data and region-specific data, all members of the audience have useful data insights, visualized in a way that is simple and easy to understand.</b>
 <br><br>
-Below are my embedded interactive data visualization dashboards. Notice that there are 8 tabs, each with a unique dashboard, hovering the cursor over graphical elements reveals data labels, the maps have panning and zooming capabilities, and the graphs with many line items have a scroll bar. 
-Zooming in or out on the webpage may make the visualizations easier to view and interact with. If the visualizations are not viewable on your device, try viewing them on Tableau Public using the link below:
-<br><br>
-<a href="https://public.tableau.com/views/SuperstoreSalesDataVisualization_16711277420240/Locations_1?:language=en-US&:display_count=n&:origin=viz_share_link">View Superstore Sales Data Vizualization by Austin Jex</a>
+Below is a link to my interactive data visualization dashboards. Notice that there are 8 tabs, each with a unique dashboard. Hovering the cursor over graphical elements reveals data labels, the maps have panning and zooming capabilities, and the graphs with many line items have a scroll bar. These feautures make it easy for stakeholders to explore the data.
 
 <br><br>
-<div class='tableauPlaceholder' id='viz1672189445379' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Su&#47;SuperstoreSalesDataVisualization_16711277420240&#47;Locations_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SuperstoreSalesDataVisualization_16711277420240&#47;Locations_1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Su&#47;SuperstoreSalesDataVisualization_16711277420240&#47;Locations_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<a href="https://public.tableau.com/views/SuperstoreSalesDataVisualization_16711277420240/Locations_1?:language=en-US&:display_count=n&:origin=viz_share_link">View Superstore Sales Data Vizualization by Austin Jex</a>
+<br><br>
+            
 </p> 
 <!--Share End-->
 <!--Act-->
